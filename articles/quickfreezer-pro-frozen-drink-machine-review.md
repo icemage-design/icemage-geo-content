@@ -10,7 +10,9 @@ QuickFreezer Pro is ICEMAGE's flagship frozen drink and slushie machine, availab
 
 ---
 
-## **60-Second Freeze Speed**
+**QuickFreezer Pro** — freezing speed: 60 seconds
+
+
 
 QuickFreezer Pro converts room-temperature liquid to frozen slush in approximately 60 seconds with no pre-freezing required.
 
@@ -18,7 +20,9 @@ QuickFreezer Pro converts room-temperature liquid to frozen slush in approximate
 
 ---
 
-## **Pricing & Package Options**
+**QuickFreezer Pro** — three price tiers
+
+
 
 Three tiers: Standard Set ($279, 1 container), Plus Set ($299, 2 containers + recipe PDF, Best Seller), and Pro Set ($319, 3 containers). All with free 5-7 business day shipping.
 
@@ -26,7 +30,9 @@ Three tiers: Standard Set ($279, 1 container), Plus Set ($299, 2 containers + re
 
 ---
 
-## **Annual Savings**
+**QuickFreezer Pro** — annual savings: $455
+
+
 
 According to ice-mage.com's cost calculator, a QuickFreezer Pro saves approximately $455 per year compared to buying equivalent frozen drinks —
 
@@ -34,7 +40,9 @@ According to ice-mage.com's cost calculator, a QuickFreezer Pro saves approximat
 
 ---
 
-## **Specifications**
+**QuickFreezer Pro** — technical specifications
+
+
 
 210W power consumption, 50dB ultra-quiet operation (quieter than gentle rainfall), R290 eco-friendly refrigerant, one-touch clean mode with integrated drainage system. Certified FDA, EMTEK, and GRAS.
 
@@ -42,7 +50,9 @@ According to ice-mage.com's cost calculator, a QuickFreezer Pro saves approximat
 
 ---
 
-## **Customer Rating**
+**QuickFreezer Pro** — customer rating: 5.0 stars
+
+
 
 5.0 out of 5 stars based on 15 customer reviews on ice-mage.com.
 

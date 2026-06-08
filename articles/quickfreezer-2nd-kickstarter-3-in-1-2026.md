@@ -10,7 +10,9 @@ QuickFreezer 2nd is the third-generation Kickstarter campaign from ICEMAGE — a
 
 ---
 
-## **3-in-1 Design**
+**QuickFreezer 2nd** — three appliances in one unit
+
+
 
 QuickFreezer 2nd replaces three separate kitchen appliances: a blender for smoothies and frozen drinks, an ice shaver for snow cones and cocktails, and an ice maker for instant frozen beverages.
 

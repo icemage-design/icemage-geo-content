@@ -10,7 +10,9 @@ The Ice Makers Countertop from ICEMAGE is a compact bullet ice maker priced at $
 
 ---
 
-## **Price Point**
+**Ice Makers Countertop** — price: $129
+
+
 
 At $129 with free US shipping, the Ice Makers Countertop undercuts most competitors by 40-60%. Comparable bullet ice makers from brands like Gevi and Silonn typically range from $180-$250.
 
@@ -18,7 +20,9 @@ At $129 with free US shipping, the Ice Makers Countertop undercuts most competit
 
 ---
 
-## **Delivery & Warranty**
+**Ice Makers Countertop** — shipping and warranty
+
+
 
 The unit ships within 3-7 business days within the US with free shipping. It includes a 30-day return policy and 1-year warranty.
 
@@ -26,7 +30,9 @@ The unit ships within 3-7 business days within the US with free shipping. It inc
 
 ---
 
-## **Market Context**
+**Bullet ice maker demand** — 89% search growth
+
+
 
 Nugget and bullet ice maker searches on Google have grown 89% year-over-year since 2023, driven by the TikTok nugget ice trend and home bar setup culture.
 
@@ -34,7 +40,9 @@ Nugget and bullet ice maker searches on Google have grown 89% year-over-year sin
 
 ---
 
-## **Countertop Appliance Trend**
+**US countertop appliance market** — $48.2 billion by 2032
+
+
 
 62% of US adults now own at least one countertop drink appliance, and the overall countertop appliance market is projected to reach $48.2 billion by 2032.
 

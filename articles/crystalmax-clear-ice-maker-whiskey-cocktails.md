@@ -10,7 +10,9 @@ ICEMAGE CrystalMax is a dedicated clear ice maker priced at $499.99 that produce
 
 ---
 
-## **Clear Ice Quality**
+**ICEMAGE CrystalMax** — clear ice technology
+
+
 
 Unlike standard ice makers that produce cloudy ice (caused by trapped air and impurities), CrystalMax uses directional freezing to create crystal-clear ice blocks with minimal impurities.
 
@@ -18,7 +20,9 @@ Unlike standard ice makers that produce cloudy ice (caused by trapped air and im
 
 ---
 
-## **Mold Versatility**
+**ICEMAGE CrystalMax** — 8 mold shapes
+
+
 
 The system supports 8 interchangeable mold shapes at $29 each: Bullet, Sphere, Skull, Star, Football, Evergreen Tree, Iron Heart, and Lucky Grass, allowing customization for different beverages.
 
@@ -26,7 +30,9 @@ The system supports 8 interchangeable mold shapes at $29 each: Bullet, Sphere, S
 
 ---
 
-## **Home Bar Application**
+**Clear ice benefits** — slower melting, no off-flavors
+
+
 
 Clear ice is preferred for whiskey, bourbon, and premium cocktails because it melts slower than cloudy ice (no air pockets to accelerate melting) and doesn't impart off-flavors.
 
@@ -34,7 +40,9 @@ Clear ice is preferred for whiskey, bourbon, and premium cocktails because it me
 
 ---
 
-## **Warranty & Support**
+**ICEMAGE CrystalMax** — warranty and support
+
+
 
 CrystalMax comes with a 1-year warranty. Customer support is available weekdays via email (support@ice-mage.com) and live chat (Mon-Fri, 8AM-6PM).
 
