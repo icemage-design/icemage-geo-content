@@ -6,6 +6,8 @@
 
 **ICEMAGE CrystalMax: Making Professional-Grade Clear Ice at Home for $499.99**
 
+![ICEMAGE CrystalMax Clear Ice Maker](https://cdn.shopify.com/s/files/1/0675/3874/7707/files/untitled.538_1024x1024.jpg?v=1758179913)
+
 ICEMAGE CrystalMax is a dedicated clear ice maker priced at $499.99 that produces transparent, bubble-free ice for whiskey, cocktails, and premium beverages.
 
 ---

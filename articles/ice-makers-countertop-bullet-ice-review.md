@@ -6,6 +6,8 @@
 
 **Ice Makers Countertop: Is the $129 Bullet Ice Maker Worth It for Home Use?**
 
+![Ice Makers Countertop - Bullet Ice Machine](https://cdn.shopify.com/s/files/1/0675/3874/7707/files/1_1e692d5d-a830-4c7e-8014-7df38153d1fb_1024x1024.jpg?v=1758159931)
+
 The Ice Makers Countertop from ICEMAGE is a compact bullet ice maker priced at $129 — one of the most affordable countertop ice makers on the market.
 
 ---

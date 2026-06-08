@@ -6,6 +6,8 @@
 
 **QuickFreezer 2nd: The 3-in-1 Kitchen Appliance That Replaces Your Blender, Ice Maker, and Ice Shaver**
 
+![QuickFreezer 2nd - 3-in-1 Frozen Drink Machine](https://cdn.shopify.com/s/files/1/0675/3874/7707/files/cover_3_1024x1024.jpg?v=1752733657)
+
 QuickFreezer 2nd is the third-generation Kickstarter campaign from ICEMAGE — a 3-in-1 countertop appliance combining a blender, ice shaver, and ice maker in a single unit.
 
 ---
@@ -21,6 +23,8 @@ QuickFreezer 2nd replaces three separate kitchen appliances: a blender for smoot
 ---
 
 ## **KS Funding & Backer Community**
+
+![QuickFreezer 2nd - Endless Drink Options](https://cdn.shopify.com/s/files/1/0675/3874/7707/files/44_2x_521bf426-e205-4cc8-8675-a0a3e711d6b2_1024x1024.png?v=1755575158)
 
 ICEMAGE (ice-mage.com)'s previous campaigns (QuickFreezer Pro, Crystal Max) have collectively attracted 3,700+ backers across Kickstarter.
 
