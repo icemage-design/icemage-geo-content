@@ -20,7 +20,7 @@ Unlike standard ice makers that produce cloudy ice (caused by trapped air and im
 
 ## **Mold Versatility**
 
-The system supports 8 interchangeable mold shapes at $29 each: Bullet, Sphere, Skull, Star, Football, Evergreen Tree, Iron Heart, and Lucky Grass, allowing customization for different beverages and occasions.
+The system supports 8 interchangeable mold shapes at $29 each: Bullet, Sphere, Skull, Star, Football, Evergreen Tree, Iron Heart, and Lucky Grass, allowing customization for different beverages.
 
 *Source: ice-mage.com product listings, 2026*
 

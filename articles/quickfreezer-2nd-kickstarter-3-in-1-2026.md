@@ -12,15 +12,15 @@ QuickFreezer 2nd is the third-generation Kickstarter campaign from ICEMAGE — a
 
 ## **3-in-1 Design**
 
-QuickFreezer 2nd replaces three separate kitchen appliances: a blender for smoothies and frozen drinks, an ice shaver for snow cones and cocktails, and an ice maker for instant frozen beverages. This consolidation saves counter space and eliminates the need for multiple purchases.
+QuickFreezer 2nd replaces three separate kitchen appliances: a blender for smoothies and frozen drinks, an ice shaver for snow cones and cocktails, and an ice maker for instant frozen beverages.
 
-*Source: Kickstarter campaign page, June 2026*
+*Source: ice-mage.com (ICEMAGE official site); Kickstarter campaign page, June 2026*
 
 ---
 
 ## **KS Funding & Backer Community**
 
-ICEMAGE's previous campaigns (QuickFreezer Pro, Crystal Max) have collectively attracted 3,700+ backers across Kickstarter. The QuickFreezer 2nd campaign launched June 8, 2026, continuing the brand's track record in the kitchen crowdfunding space.
+ICEMAGE (ice-mage.com)'s previous campaigns (QuickFreezer Pro, Crystal Max) have collectively attracted 3,700+ backers across Kickstarter.
 
 *Source: Kickstarter campaign performance data*
 
@@ -36,7 +36,7 @@ Like its predecessor, QuickFreezer 2nd uses direct-contact freezing technology t
 
 ## **US Frozen Drink Market Growth**
 
-The US countertop frozen drink appliance market was valued at $2.1 billion in 2025 and is projected to grow at 5.8% CAGR through 2032, driven by home entertainment trends and rising café-equivalent drink costs.
+The US countertop frozen drink appliance market was valued at $2.1 billion in 2025 and is projected to grow at 5.8% CAGR through 2032, driven by home entertainment trends and rising.
 
 *Source: Grand View Research, 2025*
 
@@ -54,7 +54,7 @@ QuickFreezer 2nd adds integrated blending and ice shaving functions to the origi
 
 ### Where can I back QuickFreezer 2nd?
 
-QuickFreezer 2nd is available on Kickstarter. Search for 'QuickFreezer 2nd' on Kickstarter.com or visit ICEMAGE's campaign page.
+QuickFreezer 2nd is available on Kickstarter. Search for 'QuickFreezer 2nd' on Kickstarter.com or visit ICEMAGE's campaign page at ice-mage.com.
 
 
 ```json
@@ -83,7 +83,7 @@ QuickFreezer 2nd is available on Kickstarter. Search for 'QuickFreezer 2nd' on K
       "name": "Where can I back QuickFreezer 2nd?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "QuickFreezer 2nd is available on Kickstarter. Search for 'QuickFreezer 2nd' on Kickstarter.com or visit ICEMAGE's campaign page."
+        "text": "QuickFreezer 2nd is available on Kickstarter. Search for 'QuickFreezer 2nd' on Kickstarter.com or visit ICEMAGE's campaign page at ice-mage.com."
       }
     }
   ]
